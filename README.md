@@ -14,4 +14,4 @@ I'm a versatile developer skilled in competitive programming. Proficient in a ra
 
 ### 📫 How to reach me
 - Email: [sagor2003roy@gmail.com](mailto:sagor2003roy@gmail.com)
-- LinkedIn: [My LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sagor-roy-3a5417249/))
+- LinkedIn: [https://linkedin.com/in/sagor-roy-3a5417249/](https://www.linkedin.com/in/sagor-roy-3a5417249/)
