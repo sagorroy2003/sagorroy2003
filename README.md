@@ -1,6 +1,6 @@
 # Sagor Roy
 
-## Competitive Programmer
+## Competitive Programmer || Problem Solver
 
 I'm a versatile developer skilled in competitive programming. Proficient in a range of technologies.
 
