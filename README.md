@@ -64,7 +64,7 @@ I enjoy **competitive programming**, learning new technologies, and building use
 ## 📄 My Resume
 
 <p align="center">
-  <a href="[https://github.com/sagorroy2003/your-repo-name/raw/main/Resume.pdf](https://docs.google.com/document/d/1wt88Tylrqpox4n_eFsWn3u2fkoRgXzj4/edit?rtpof=true&tab=t.0)" target="_blank">
+  <a href="[https://docs.google.com/document/d/1wt88Tylrqpox4n_eFsWn3u2fkoRgXzj4/edit?rtpof=true&tab=t.0]" target="_blank">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:f093fb&height=60&section=badge&text=Download%20Resume&fontSize=20&fontColor=ffffff&animation=twinkle" alt="Download Resume">
   </a>
 </p>
