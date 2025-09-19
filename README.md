@@ -64,10 +64,11 @@ I enjoy **competitive programming**, learning new technologies, and building use
 ## 📄 My Resume
 
 <p align="center">
-  <a href="[https://docs.google.com/document/d/1wt88Tylrqpox4n_eFsWn3u2fkoRgXzj4/edit?rtpof=true&tab=t.0]" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:f093fb&height=60&section=badge&text=Download%20Resume&fontSize=20&fontColor=ffffff&animation=twinkle" alt="Download Resume">
+  <a href="https://github.com/sagorroy2003/your-repo-name/raw/main/Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-brightgreen?style=for-the-badge&logo=adobeacrobat&logoColor=white" alt="Download Resume">
   </a>
 </p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=150&section=footer" alt="footer">
 </p>
