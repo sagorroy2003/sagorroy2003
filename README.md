@@ -64,7 +64,7 @@ I enjoy **competitive programming**, learning new technologies, and building use
 ## 📄 My Resume
 
 <p align="center">
-  <a href="https://github.com/sagorroy2003/your-repo-name/raw/main/Resume.pdf" target="_blank">
+  <a href="https://github.com/sagorroy2003/sagorroy2003/raw/main/Sagor_Roy_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-brightgreen?style=for-the-badge&logo=adobeacrobat&logoColor=white" alt="Download Resume">
   </a>
 </p>
