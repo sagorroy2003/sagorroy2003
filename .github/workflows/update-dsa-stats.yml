@@ -20,8 +20,9 @@ jobs:
 
       - name: Fetch Stats and Save SVG
         run: |
-          # Fetch the latest stats card as an SVG with your username and theme
-          curl -o dsa-stats.svg "https://dsastats.vercel.app/api/codolio/sagor18?theme=dark"
+          # Fetch the latest stats card, but pretend to be a browser
+          # by adding a User-Agent string (-A)
+          curl -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36" -o dsa-stats.svg "https://dsastats.vercel.app/api/codolio/sagor18?theme=dark"
           
       - name: Commit and push if there are changes
         run: |
