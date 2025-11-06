@@ -32,7 +32,7 @@ I enjoy **competitive programming**, learning new technologies, and building use
 
 <p align="center">
   <a href="https://codolio.com/profile/sagor18">
-    <img src="dsa-stats.svg" alt="Codolio DSA Stats" width="70%"/>
+    <img src="https://dsastats.vercel.app/api/codolio/sagor18?theme=dark" alt="Codolio DSA Stats" width="70%"/>
   </a>
 </p>
 
