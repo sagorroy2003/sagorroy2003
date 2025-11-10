@@ -28,7 +28,7 @@ I enjoy **competitive programming**, learning new technologies, and building use
 
 ---
 
-## 🏆 Competitive Programming Stats
+## 🏆 Problem-Solving Stats
 
 <p align="center">
   <a href="https://codolio.com/profile/sagor18">
