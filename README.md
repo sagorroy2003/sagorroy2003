@@ -41,8 +41,8 @@ I enjoy **competitive programming**, learning new technologies, and building use
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagorroy2003&show_icons=true&theme=radical" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagorroy2003&layout=compact&theme=radical" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-stats-fork-sr.vercel.app/api?username=sagorroy2003&show_icons=true&theme=radical" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats-fork-sr.vercel.app/api/top-langs/?username=sagorroy2003&layout=compact&theme=radical" alt="Top Languages" width="49%"/>
 </p>
 
 ---
