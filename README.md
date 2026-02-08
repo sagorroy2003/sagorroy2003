@@ -1,67 +1,79 @@
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=sagorroy2003&label=Profile%20Views&color=red&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sagorroy2003&label=Profile%20Views&color=red&style=flat-square"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Sagor%20Roy&fontSize=60&fontAlignY=35&desc=Competitive%20Programmer%20%7C%20Problem%20Solver%20%7C%20Developer&descAlignY=55&descAlign=50" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Sagor%20Roy&fontSize=56&fontColor=ffffff&fontAlignY=38"/>
 </p>
 
-<div align="center">
-  
-I’m a **Computer Science student** passionate about solving problems through code.
-I enjoy **competitive programming**, learning new technologies, and building useful projects.
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+  <b>Computer Science & Engineering Student</b><br/>
+  🧠 Problem Solver &nbsp;•&nbsp; ⚔️ Competitive Programmer &nbsp;•&nbsp; 💻 Developer
 </p>
 
----
-
-## 🏆 Problem-Solving Stats
-
 <p align="center">
-  <a href="https://codolio.com/profile/sagor18">
-    <img src="dsa-stats.svg" alt="Codolio DSA Stats" width="70%"/>
+  <a href="https://www.linkedin.com/in/sagorroy2003/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://codeforces.com/profile/sagorroy2.0">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="mailto:sagor2003roy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sagorroy2003/sagorroy2003/raw/main/Sagor_Roy_Resume.pdf">
+    <img src="https://img.shields.io/badge/Download Resume-FF5733?style=flat&logo=adobeacrobat&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Projects
 
+### 🩸 Blood Donor Connector 
+<a href="https://github.com/sagorroy2003/Blood-Donor-Connector">
+  <img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat&logo=github&logoColor=white" height="20"/>
+</a>
+
+A full-stack platform that connects blood donors with patients and hospitals.
+
+- **Key Features:** Donor registration, searchable directory, request workflow, admin dashboard  
+- **Tech Stack:** JavaScript, Node.js, MySQL, CSS
+
+---
+
+### 🧰 Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats-fork-sr.vercel.app/api?username=sagorroy2003&show_icons=true&theme=radical" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats-fork-sr.vercel.app/api/top-langs/?username=sagorroy2003&layout=compact&theme=radical" alt="Top Languages" width="49%"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-## 🔗 Connect With Me
-
+### 🏆 Problem Solving
 <p align="center">
-  <a href="mailto:sagor2003roy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/sagorroy2003/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  
-  <a href="https://codeforces.com/profile/sagorroy2.0"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
-  
-  <a href="https://github.com/sagorroy2003/sagorroy2003/raw/main/Sagor_Roy_Resume.pdf"><img src="https://img.shields.io/badge/Download%20Resume-FF5733?style=for-the-badge&logo=adobeacrobat&logoColor=white" alt="Resume"/></a>
+  <a href="https://codolio.com/profile/sagor18">
+    <img src="dsa-stats.svg" width="65%"/>
+  </a>
 </p>
 
 ---
 
-## 🌱 More About Me
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-fork-sr.vercel.app/api?username=sagorroy2003&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats-fork-sr.vercel.app/api/top-langs/?username=sagorroy2003&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
 
-* 📚 Currently on a journey to become a **Full-Stack Developer**.
-* 🏆 Achieved **Runner-up** in ♟️ Chess Competition @ 3rd NSTU National Science Fest 2024.
-* 🎯 My goal is to become a skilled developer and land a role in a tech startup or big tech.
+---
+
+### 🌱 Currently
+- 📘 Strengthening **DSA & problem solving**
+- 🌐 Learning **full-stack web development**
+- 🎯 Preparing for **software engineering roles**
+
+🏆 Runner-up — ♟️ Chess Competition, **NSTU National Science Fest**
