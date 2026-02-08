@@ -31,7 +31,7 @@
 # 🚀 Projects
 
 ### 🩸 Blood Donor Connector 
-<a href="https://github.com/sagorroy2003/Blood-Donor-Connector">
+<a href="https://github.com/sagorroy2003/Blood-Donor-Connector-Platform-University-Project">
   <img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat&logo=github&logoColor=white" height="20"/>
 </a>
 
