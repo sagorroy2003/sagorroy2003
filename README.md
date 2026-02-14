@@ -27,7 +27,7 @@
       <h3>🛒 UniBazer - Student Marketplace</h3>
       <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square" />
       <p>A multi-vendor marketplace tailored for university students to buy and sell safely.</p>
-      <a href="https://github.com/sagorroy2003/NSTU-MARKET-PLACE"><b>View Repository →</b></a>
+      <a href="https://github.com/sagorroy2003/uniBazaar"><b>View Repository →</b></a>
     </td>
   </tr>
 </table>
