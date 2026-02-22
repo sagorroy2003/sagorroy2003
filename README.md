@@ -77,8 +77,8 @@
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats-fork-sr.vercel.app/api?username=sagorroy2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%"/>
-  <img src="https://github-readme-stats-fork-sr.vercel.app/api/top-langs/?username=sagorroy2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%"/>
+  <img src="https://github-readme-stats-fork-sr.vercel.app/api?username=sagorroy2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%"/>
+  <img src="https://github-readme-stats-fork-sr.vercel.app/api/top-langs/?username=sagorroy2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%"/>
 </p>
 
 <p align="center">
