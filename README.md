@@ -24,7 +24,7 @@
       <a href="https://github.com/sagorroy2003/Blood-Donor-Connector-Platform-University-Project"><b>View Repository →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🛒 UniBazer - Student Marketplace</h3>
+      <h3>🛒 UniBazaar - Student Marketplace</h3>
       <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square" />
       <p>A multi-vendor marketplace tailored for university students to buy and sell safely.</p>
       <a href="https://github.com/sagorroy2003/uniBazaar"><b>View Repository →</b></a>
