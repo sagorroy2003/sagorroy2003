@@ -5,11 +5,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Sagor%20Roy&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CSE%20Undergraduate%20•%20Problem%20Solver%20•%20Full-Stack%20Developer&descSize=20&descAlignY=62" width="100%"/>
 </p>
-<p align="center">
-  <a href="https://github.com/sagorroy2003/sagorroy2003/raw/main/Sagor_Roy_Resume.pdf">
-    <img src="https://img.shields.io/badge/Download_Resume-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume"/>
-  </a>
-</p>
 
 ---
 
@@ -26,7 +21,7 @@
     <td width="50%" valign="top">
       <h3>🛒 UniBazaar - Student Marketplace</h3>
       <img src="https://img.shields.io/badge/Status-Pause-yellow?style=flat-square" />
-      <p>A multi-vendor marketplace tailored for university students to buy and sell safely.</p>
+      <p>A university community marketplace connecting students, sellers, and campus businesses.</p>
       <a href="https://github.com/sagorroy2003/uniBazaar"><b>View Repository →</b></a>
     </td>
   </tr>
