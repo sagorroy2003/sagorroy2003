@@ -14,13 +14,13 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🩸 Blood Donor Connector</h3>
-      <img src="https://img.shields.io/badge/Status-Maintained-2ea44f?style=flat-square" />
+      <img src="https://img.shields.io/badge/Status-On Hold-orange?style=flat-square" />
       <p>A full-stack platform connecting blood donors with patients and hospitals in real-time.</p>
       <a href="https://github.com/sagorroy2003/Blood-Donor-Connector-Platform-University-Project"><b>View Repository →</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>🛒 UniBazaar - Student Marketplace</h3>
-      <img src="https://img.shields.io/badge/Status-Pause-yellow?style=flat-square" />
+      <img src="https://img.shields.io/badge/Status-In progress-2ea44f?style=flat-square" />
       <p>A university community marketplace connecting students, sellers, and campus businesses.</p>
       <a href="https://github.com/sagorroy2003/uniBazaar"><b>View Repository →</b></a>
     </td>
