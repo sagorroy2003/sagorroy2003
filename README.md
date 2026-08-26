@@ -20,7 +20,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🛒 UniBazaar - Student Marketplace</h3>
-      <img src="https://img.shields.io/badge/Status-In progress-2ea44f?style=flat-square" />
+      <img src="https://img.shields.io/badge/Status-Currently Working-2ea44f?style=flat-square" />
       <p>A university community marketplace connecting students, sellers, and campus businesses.</p>
       <a href="https://github.com/sagorroy2003/uniBazaar"><b>View Repository →</b></a>
     </td>
